@@ -70,7 +70,7 @@
  
  In some rare edge cases, the number may not centre itself properly in the circle. If that happens, this method can be used to correct it.
  
- @return A CGFloat specifying th offset value. Positive numbers push the text downwards and negative numbers push it upwards.
+ @return A CGFloat specifying the offset value. Positive numbers push the text downwards and negative numbers push it upwards.
  
 */
 - (CGFloat)offset;
@@ -124,7 +124,7 @@
  
  A switch the specifies whether or not to show lines connecting the circles.
  
- @return A UIColor object specifying the text colour.
+ @return YES will show connecting lines and NO will not.
  
 */
 - (BOOL)showLinesBetweenSteps;
