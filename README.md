@@ -18,7 +18,7 @@ To use this control, create a view in your Storyboard or .xib file and set it's 
 
 For the complete set of configurable attributes and how to use them, refer to the docs for the protocol available on [CocoaDocs](http://cocoadocs.org/docsets/ANProgressStepper/).
 
-The circles and text will size themselves based on the height and width of the view. I recommend you use even numbers for the height and text size(if you manually override it)
+The circles and text will size themselves based on the height and width of the view. I recommend you use even numbers for the height and text size (if you manually override it) so that centering the text is more accurate.
 
 ## Examples
 
