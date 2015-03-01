@@ -1,0 +1,12 @@
+platform :ios, '7.0'
+
+target 'ANProgressStepper' do
+
+pod 'ANProgressStepper', :git => 'https://github.com/ayushn21/ANProgressStepper.git'
+
+end
+
+target 'ANProgressStepperTests' do
+
+end
+

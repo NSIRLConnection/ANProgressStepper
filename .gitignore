@@ -1,2 +1,4 @@
 *.xcuserstate
 *.xcuserdatad
+*.lock
+Example App/Pods
