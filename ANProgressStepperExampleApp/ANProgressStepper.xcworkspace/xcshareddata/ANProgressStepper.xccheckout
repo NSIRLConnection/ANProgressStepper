@@ -14,7 +14,7 @@
 		<string>https://github.com/ayushn21/ANProgressStepper.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Example App/ANProgressStepper.xcworkspace</string>
+	<string>ANProgressStepperExampleApp/ANProgressStepper.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>3DCFFE51D01F04D388C7B14B6A0B26816797A694</key>

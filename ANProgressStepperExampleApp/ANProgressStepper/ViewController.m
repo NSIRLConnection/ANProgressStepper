@@ -20,6 +20,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.stepper.currentStep = 3;
 }
 
 - (NSUInteger)numberOfSteps
@@ -34,7 +35,7 @@
 
 - (UIColor *)incompleteColor
 {
-    return [UIColor blackColor];
+    return [UIColor whiteColor];
 }
 
 - (UIColor *)completeColor
@@ -49,12 +50,12 @@
 
 - (UIColor *)incompleteNumberColor
 {
-    return [UIColor whiteColor];
+    return [UIColor blackColor];
 }
 
 - (UIColor *)completeNumberColor
 {
-    return [UIColor blackColor];
+    return [UIColor whiteColor];
 }
 
 - (UIColor *)activeNumberColor
@@ -64,17 +65,17 @@
 
 - (UIColor *)borderColor
 {
-    return [UIColor blueColor];
+    return [UIColor whiteColor];
 }
 
 - (CGFloat)numberSize
 {
-    return 11.0f;
+    return 12.0f;
 }
 
 - (BOOL)showLinesBetweenSteps
 {
-    return NO;
+    return YES;
 }
 
 @end
