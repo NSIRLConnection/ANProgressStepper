@@ -1,6 +1,6 @@
 ## Description
 
-ANProgressStepper is a simple control that shows numbered circles with different background colours to provide the user with feedback on their progress through a multi-step process. 
+ANProgressStepper is a stepped progress indicator control that shows numbered circles with different background colours to provide the user with feedback on their progress through a multi-step process. 
 
 ## Screenshots
 
